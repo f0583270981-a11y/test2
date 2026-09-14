@@ -1,2 +1,0 @@
-username="naama"
-pasoowrd=12345
